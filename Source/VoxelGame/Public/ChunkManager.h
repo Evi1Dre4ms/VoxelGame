@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include <DynamicGrid/DynamicGrid.h>
+#include <Dynamic-Grids/DynamicGrid.h>
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"

@@ -2,7 +2,7 @@
 #pragma optimize("", off)
 
 #include "ChunkManager.h"
-#include <DynamicGrid/DynamicGrid.cpp>
+#include <Dynamic-Grids/DynamicGrid.cpp>
 #include <FastNoiseLite.h>
 #include <Runtime/Engine/Classes/Kismet/GameplayStatics.h>
 #include "GameFramework/Character.h"

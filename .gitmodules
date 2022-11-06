@@ -1,3 +1,3 @@
 [submodule "Dynamic-Grids"]
-	path = Dynamic-Grids
+	path = 3rdparty/Dynamic-Grids
 	url = https://github.com/N4pTime/Dynamic-Grids.git
