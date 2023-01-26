@@ -5,3 +5,9 @@ At the moment, procedural terrain generation has been implemented using a simple
 
 ![img1](https://user-images.githubusercontent.com/42304979/200196247-39f69702-ed58-4e01-9f69-8eee17667036.png)
 
+# Setup
+
+```
+git clone https://github.com/N4pTime/VoxelGame.git <br />
+git submodule update --init --recursive
+```
